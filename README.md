@@ -2,7 +2,7 @@
 
 Je suis étudiant en BUT Informatique à l'IUT Robert Schuman.
 
-Passioné par le monde vidéoludique depuis tout petit, je poursuis mon rêve de créer des jeux quotidiennement.
+Passioné par le monde vidéoludique depuis tout petit, je poursuis mon rêve de devenir développeur indépendant de jeux vidéos.
 
 ## Mes projets
 
@@ -15,10 +15,30 @@ Incarnez un petit personnage qui court et saute à travers des obstacles génér
 Le jeu n'est pas fini, j'ai plusieurs idées de mise à jour à venir :
 - Refonte du système de déplacement afin d'assurer une meilleure stabilité et portabilité
 - Ajout d'un mode multijoueur local
+- Nouveaux sprites plus colorés
+
+**Technologie utilisée** : Godot
+
+### Polar Extreme
+
+Jeu de gestion d'une base polaire avec des mécaniques s'apparentant à *Rimworld*.
+
+- Gestion d'une base polaire passant par
+  - Construction / amélioration de bâtiments
+  - Engagement de scientifiques (pnjs) permettant l'exploitation de ces bâtiments
+  - Construction de chemins permettant de relier ces batîments et d'y conduire les scientifiques
+- Production d'une monnaie / score appelée *Science* via la construction et la gestion de bâtiments
+- Limite de temps avec score final
+
+**Technologie utilisée** : Godot
 
 ### Doonjons & Dragons
 
-Un projet s'inscrivant dans un 
+Jeu à la sauce Donjons & Dragons.
+
+Le jeu se joue en console et propose un système de création de personnages, de monstres, d'une carte de jeu, et d'un système de combat tour par tour s'inspirant énormément du système de combat dans Donjons et Dragons
+
+**Technologie utilisée** : Java
 
 
 <!--
