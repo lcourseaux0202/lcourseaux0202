@@ -4,9 +4,9 @@ Je suis étudiant en BUT Informatique à l'IUT Robert Schuman.
 
 Passioné par le monde vidéoludique depuis tout petit, je poursuis mon rêve de devenir développeur indépendant de jeux vidéos.
 
-## Mes projets
+# Mes projets
 
-### Rungame
+## Projet personnel : Rungame
 
 Un petit projet personnel pour expérimenter sur Godot. 
 
@@ -19,7 +19,7 @@ Le jeu n'est pas fini, j'ai plusieurs idées de mise à jour à venir :
 
 **Technologie utilisée** : Godot
 
-### Polar Extreme
+## Projet universitiare : Polar Extreme
 
 Jeu de gestion d'une base polaire avec des mécaniques s'apparentant à *Rimworld*.
 
@@ -32,7 +32,7 @@ Jeu de gestion d'une base polaire avec des mécaniques s'apparentant à *Rimworl
 
 **Technologie utilisée** : Godot
 
-### Doonjons & Dragons
+## Projet universitaire : Doonjons & Dragons
 
 Jeu à la sauce Donjons & Dragons.
 
