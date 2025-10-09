@@ -1,4 +1,11 @@
-## Hi there 👋
+## Bonjour, je suis Lucas 👋
+
+Je suis étudiant en BUT Informatique à l'IUT Robert Schuman.
+
+Passioné par le monde vidéoludique depuis tout petit, je poursuis mon rêve de créer des jeux quotidiennement.
+
+
+
 
 <!--
 **lcourseaux0202/lcourseaux0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
