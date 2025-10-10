@@ -1,15 +1,13 @@
 # Bonjour, je suis Lucas 👋
 
-Je suis étudiant en BUT Informatique à l'IUT Robert Schuman.
-
+Je suis étudiant en BUT Informatique à l'IUT Robert Schuman.  
 Passioné par le monde vidéoludique depuis tout petit, je poursuis mon rêve de devenir développeur indépendant de jeux vidéos.
 
 # Mes projets
 
 ## Projet personnel : Rungame
 
-Un petit projet personnel pour expérimenter sur Godot. 
-
+Un petit projet personnel pour expérimenter sur Godot.  
 Incarnez un petit personnage qui court et saute à travers des obstacles générés aléatoirement.
 
 Le jeu n'est pas fini, j'ai plusieurs idées de mise à jour à venir :
@@ -45,8 +43,7 @@ Jeu de gestion d'une base polaire avec des mécaniques s'apparentant à *Rimworl
 
 ## Projet universitaire : Doonjons & Dragons
 
-Jeu à la sauce Donjons & Dragons.
-
+Jeu à la sauce Donjons & Dragons.  
 Le jeu se joue en console et propose un système de création de personnages, de monstres, d'une carte de jeu, et d'un système de combat tour par tour s'inspirant énormément du système de combat dans Donjons et Dragons
 
 **Technologie utilisée** : Java
