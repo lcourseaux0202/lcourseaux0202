@@ -19,6 +19,17 @@ Le jeu n'est pas fini, j'ai plusieurs idées de mise à jour à venir :
 
 **Technologie utilisée** : Godot
 
+## Projet personnel : WOH Mod Maker
+
+Gestionnaire et outil de création de mods pour le jeu World Of Horror.  
+L'application permet à l'heure actuelle de créer des mods de type Event.
+
+Futures fonctionnalités :
+- Menu principal affichant les mods créés et un moyen de les éditer
+- Outil de création de mods de types Character, Enemy, Mysteries
+
+**Technologie utilisée** : Visual Studio (C#)
+
 ## Projet universitiare : Polar Extreme
 
 Jeu de gestion d'une base polaire avec des mécaniques s'apparentant à *Rimworld*.
