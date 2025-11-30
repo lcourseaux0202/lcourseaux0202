@@ -6,7 +6,7 @@ Je suis étudiant en BUT Informatique à l'IUT Robert Schuman.
 
 Passionné par le monde vidéoludique depuis tout petit, je poursuis mon rêve de devenir développeur indépendant de jeux vidéos.
 
-# 🛠️ Mes comptétences
+# 🛠️ Mes compétences
 
 **Les languages avec lesquels je travaille**
 
