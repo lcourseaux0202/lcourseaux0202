@@ -3,9 +3,27 @@
 Je suis étudiant en BUT Informatique à l'IUT Robert Schuman.  
 Passioné par le monde vidéoludique depuis tout petit, je poursuis mon rêve de devenir développeur indépendant de jeux vidéos.
 
-# Mes projets
+# 🛠️ Mes comptétences
 
-## Projet personnel : Rungame
+**Les languages avec lesquels je travaille**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,java,c,cs,html,css,php,javascript" />
+  </a>
+</p>
+
+**Les outils que j'utilise**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,idea,vscode,visualstudio,git,gitlab,github,linux" />
+  </a>
+</p>
+
+# 🗂️ Mes projets
+
+## 🏃 Projet personnel : Rungame
 
 Un petit projet personnel pour expérimenter sur Godot.  
 Incarnez un petit personnage qui court et saute à travers des obstacles générés aléatoirement.
@@ -17,7 +35,7 @@ Le jeu n'est pas fini, j'ai plusieurs idées de mise à jour à venir :
 
 **Technologie utilisée** : Godot
 
-## Projet personnel : WOH Mod Maker
+## 💀 Projet personnel : WOH Mod Maker
 
 Gestionnaire et outil de création de mods pour le jeu World Of Horror.  
 L'application permet à l'heure actuelle de créer des mods de type Event.
@@ -28,7 +46,7 @@ Futures fonctionnalités :
 
 **Technologie utilisée** : Visual Studio (C#)
 
-## Projet universitiare : Polar Extreme
+## ❄️ Projet universitiare : Polar Extreme
 
 Jeu de gestion d'une base polaire avec des mécaniques s'apparentant à *Rimworld*.
 
@@ -41,13 +59,17 @@ Jeu de gestion d'une base polaire avec des mécaniques s'apparentant à *Rimworl
 
 **Technologie utilisée** : Godot
 
-## Projet universitaire : Doonjons & Dragons
+## 🐉 Projet universitaire : Doonjons & Dragons
 
 Jeu à la sauce Donjons & Dragons.  
 Le jeu se joue en console et propose un système de création de personnages, de monstres, d'une carte de jeu, et d'un système de combat tour par tour s'inspirant énormément du système de combat dans Donjons et Dragons
 
-**Technologie utilisée** : Java
+**Technologie utilisée** : Java, InteliJ IDEA
 
+# 📫 Comment me contacter ?
+**Email** : lucas.courseaux@etu.unistra.fr
+
+**Discord** : losscann
 
 <!--
 **lcourseaux0202/lcourseaux0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
