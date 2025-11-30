@@ -49,7 +49,7 @@ Futures fonctionnalités :
 
 **Technologie utilisée** : Visual Studio (C#)
 
-## ❄️ Projet universitiare : Polar Extreme
+## ❄️ Projet universitaire : Polar Extreme
 
 Jeu de gestion d'une base polaire avec des mécaniques s'apparentant à *Rimworld*.
 
