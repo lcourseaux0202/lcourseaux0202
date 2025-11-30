@@ -1,4 +1,7 @@
-<img style="float: right;" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F7509d4474bed53c7d8bb0d3dc2245d50%2Ftenor.gif&sp=1764513255T6f826fadb0184e47913b6badcef05194662e9ad5976e8eeeafbdf8d7b31c9f7e" width="100">
+
+<p align="center">
+  <img style="float: right;" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F7509d4474bed53c7d8bb0d3dc2245d50%2Ftenor.gif&sp=1764513255T6f826fadb0184e47913b6badcef05194662e9ad5976e8eeeafbdf8d7b31c9f7e" width="150">
+</p>
 
 # Bonjour, je suis Lucas 👋
 
@@ -10,7 +13,6 @@ Passionné par le monde vidéoludique depuis tout petit, je poursuis mon rêve d
 
 **Les languages avec lesquels je travaille**
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot,java,c,cs,html,css,php,javascript" />
   </a>
