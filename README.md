@@ -13,6 +13,7 @@ Passionné par le monde vidéoludique depuis tout petit, je poursuis mon rêve d
 
 **Les languages avec lesquels je travaille**
 
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot,java,c,cs,html,css,php,javascript" />
   </a>
