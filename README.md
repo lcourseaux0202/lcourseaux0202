@@ -1,7 +1,10 @@
+<img style="float: right;" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F7509d4474bed53c7d8bb0d3dc2245d50%2Ftenor.gif&sp=1764513255T6f826fadb0184e47913b6badcef05194662e9ad5976e8eeeafbdf8d7b31c9f7e" width="100">
+
 # Bonjour, je suis Lucas 👋
 
 Je suis étudiant en BUT Informatique à l'IUT Robert Schuman.  
-Passioné par le monde vidéoludique depuis tout petit, je poursuis mon rêve de devenir développeur indépendant de jeux vidéos.
+
+Passionné par le monde vidéoludique depuis tout petit, je poursuis mon rêve de devenir développeur indépendant de jeux vidéos.
 
 # 🛠️ Mes comptétences
 
