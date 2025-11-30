@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img style="float: right;" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F7509d4474bed53c7d8bb0d3dc2245d50%2Ftenor.gif&sp=1764513255T6f826fadb0184e47913b6badcef05194662e9ad5976e8eeeafbdf8d7b31c9f7e" width="150">
+  <img style="float: right;" src="artorias.gif" width="150">
 </p>
 
 # Bonjour, je suis Lucas 👋
