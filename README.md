@@ -39,7 +39,7 @@ Le jeu n'est pas fini, j'ai plusieurs idées de mise à jour à venir :
 - Augmentation de la taille du contenu :
   - plus de skins (13 terminés / 28 prévus actuellement)
   - plus de sections de niveaux (10 terminées / ~100 voulues)
-  - plus de cartes d'améliorations (18 terminées / 35 prévues actuellement)
+  - plus de cartes d'améliorations (35 terminées / 35 prévues actuellement)
   
 - Ajout d'une Jukebox pour laisser au joueur le choix complet de sa playlist en jeu
 
