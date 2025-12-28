@@ -35,9 +35,21 @@ Un petit projet personnel pour expérimenter sur Godot.
 Incarnez un petit personnage qui court et saute à travers des obstacles générés aléatoirement.
 
 Le jeu n'est pas fini, j'ai plusieurs idées de mise à jour à venir :
-- Refonte du système de déplacement afin d'assurer une meilleure stabilité et portabilité
-- Ajout d'un mode multijoueur local
-- Nouveaux sprites plus colorés
+
+- Augmentation de la taille du contenu :
+  - plus de skins (13 terminés / 28 prévus actuellement)
+  - plus de sections de niveaux (10 terminées / ~100 voulues)
+  - plus de cartes d'améliorations (18 terminées / 35 prévues actuellement)
+  
+- Ajout d'une Jukebox pour laisser au joueur le choix complet de sa playlist en jeu
+
+- Ajout d'un mode multijoueur en LAN
+
+- Ajout de contrôles manettes, avec une interface complètement adaptée à ce support et un menu de configuration des touches
+
+- Refonte des menus
+
+- Intégration d'effets sonores et musiques faits par moi-même (actuellement tous les sons proviennent d'Internet)
 
 **Technologie utilisée** : Godot
 
