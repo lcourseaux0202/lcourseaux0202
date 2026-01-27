@@ -13,17 +13,17 @@ Passionné par le monde vidéoludique depuis tout petit, je poursuis mon rêve d
 
 **Les languages avec lesquels je travaille**
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cs,html,css,php,javascript,sql" />
+    <img src="https://skillicons.dev/icons?i=godot,java,c,cs,sqlite,php,javascript,html,css" />
   </a>
 </p>
 
 **Les outils que j'utilise**
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,idea,vscode,visualstudio,git,gitlab,github,linux" />
+    <img src="https://skillicons.dev/icons?i=godot,idea,vscode,visualstudio,androidstudio,git,gitlab,github,linux" />
   </a>
 </p>
 
