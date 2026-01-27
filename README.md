@@ -15,7 +15,7 @@ Passionné par le monde vidéoludique depuis tout petit, je poursuis mon rêve d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,java,c,cs,html,css,php,javascript" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,html,css,php,javascript,sql" />
   </a>
 </p>
 
