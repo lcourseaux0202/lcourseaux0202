@@ -84,6 +84,12 @@ Le jeu se joue en console et propose un système de création de personnages, de
 
 **Technologie utilisée** : Java, InteliJ IDEA
 
+## 🎲 Projet universitaire : 2048 en C
+
+Le célèbre jeu 2048 réécrit en C et jouable directement dans le terminal !
+
+**Technologie utilisée** : C, Visual Studio Code
+
 # 📫 Comment me contacter ?
 **Email** : lucas.courseaux@etu.unistra.fr
 
