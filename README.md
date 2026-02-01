@@ -62,7 +62,7 @@ Futures fonctionnalités :
 - Menu principal affichant les mods créés et un moyen de les éditer
 - Outil de création de mods de types Character, Enemy, Mysteries
 
-**Technologie utilisée** : Visual Studio (C#)
+**Technologies utilisées** : C#, Visual Studio
 
 ## ❄️ Projet universitaire : Polar Extreme
 
@@ -82,13 +82,19 @@ Jeu de gestion d'une base polaire avec des mécaniques s'apparentant à *Rimworl
 Jeu à la sauce Donjons & Dragons.  
 Le jeu se joue en console et propose un système de création de personnages, de monstres, d'une carte de jeu, et d'un système de combat tour par tour s'inspirant énormément du système de combat dans Donjons et Dragons
 
-**Technologie utilisée** : Java, InteliJ IDEA
+**Technologies utilisées** : Java, InteliJ IDEA
 
-## 🎲 Projet universitaire : 2048 en C
+## 2️⃣ Projet universitaire : 2048 en C
 
 Le célèbre jeu 2048 réécrit en C et jouable directement dans le terminal !
 
-**Technologie utilisée** : C, Visual Studio Code
+**Technologies utilisées** : C, Visual Studio Code
+
+## 🎲 Projet universitaire : Yams
+
+Deux joueurs s'affrontent au jeu du Yams dans le terminal et peuvent visualiser le récapitulatif de leur partie sur un site web.
+
+**Technologies utilisées** : C#, HTML, CSS, JavaScript, Visual Studio Code
 
 # 📫 Comment me contacter ?
 **Email** : lucas.courseaux@etu.unistra.fr
