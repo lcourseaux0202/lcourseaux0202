@@ -33,10 +33,10 @@ Passionné par le monde vidéoludique depuis tout petit, je poursuis mon rêve d
   <img height=200 align="center" src="https://discord-activity-card.vercel.app/api/status/770318729010872351?profile=true&small_image=true&name_type=display" />
 </a>
 <a href="https://github.com/lcourseaux0202">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=lcourseaux0202&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&cache_seconds=21601" />
+  <img height=400 align="center" src="https://github-stats-extended.vercel.app/api?username=lcourseaux0202&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&cache_seconds=21601" />
 </a>
 <a href="https://github.com/lcourseaux0202">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=lcourseaux0202&layout=pie&langs_count=20&theme=dark&hide_border=true&cache_seconds=21601" />
+  <img height=400 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=lcourseaux0202&layout=pie&langs_count=20&theme=dark&hide_border=true&cache_seconds=21601" />
 </a>
 
 # Comment me contacter ?
