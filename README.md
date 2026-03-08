@@ -30,7 +30,7 @@ Passionné par le monde vidéoludique depuis tout petit, je poursuis mon rêve d
 # Mon activité
 
 <a href="https://discord.com/users/770318729010872351">
-  <img height=200 align="center" src="https://discord-activity-card.vercel.app/api/status/724508210500730922?profile=true&small_image=true&name_type=display" />
+  <img height=200 align="center" src="https://discord-activity-card.vercel.app/api/status/770318729010872351?profile=true&small_image=true&name_type=display" />
 </a>
 <a href="https://github.com/lcourseaux0202">
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=lcourseaux0202&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&cache_seconds=21601" />
