@@ -38,9 +38,6 @@ Passionné par le monde vidéoludique depuis tout petit, je poursuis mon rêve d
 <a href="https://github.com/lcourseaux0202">
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=lcourseaux0202&layout=pie&langs_count=20&theme=dark&hide_border=true&cache_seconds=21601" />
 </a>
-<a href="https://wakatime.com/@lcourseaux0202">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=lcourseaux0202&langs_count=10&theme=dark&layout=compact&hide_border=true&cache_seconds=21601" />
-</a>
 
 # Comment me contacter ?
 **Email** : lucas.courseaux@etu.unistra.fr
