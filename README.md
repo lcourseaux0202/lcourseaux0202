@@ -15,7 +15,7 @@ Passionné par le monde vidéoludique depuis tout petit, je poursuis mon rêve d
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,java,c,cs,sqlite,php,javascript,react,electron,html,css,r" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,godot,sqlite,php,javascript,react,electron,html,css,r" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@ Passionné par le monde vidéoludique depuis tout petit, je poursuis mon rêve d
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,idea,vscode,visualstudio,androidstudio,git,gitlab,github,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,godot,git,gitlab,github,linux" />
   </a>
 </p>
 
