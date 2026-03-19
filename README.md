@@ -15,15 +15,15 @@ Passionné par le monde vidéoludique depuis tout petit, je poursuis mon rêve d
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cs,godot,sqlite,php,javascript,react,electron,nodejs,html,css,r" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,godot,sqlite,php,javascript,react,html,css,r" />
   </a>
 </p>
 
-**Les outils que j'utilise**
+**Les outils / technologies que j'utilise**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,godot,git,gitlab,github,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,electron,nodejs,godot,git,gitlab,github,linux" />
   </a>
 </p>
 
