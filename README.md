@@ -40,7 +40,7 @@ Passionné par le monde vidéoludique depuis tout petit, je poursuis mon rêve d
 </a>
 
 # Comment me contacter ?
-**Email** : lucas.courseaux@etu.unistra.fr
+**Email** : courseauxlucas@gmail.com
 
 **Linkedin** : <a href="https://www.linkedin.com/in/lucas-courseaux-363b58329/">www.linkedin.com/in/lucas-courseaux-363b58329</a>
 
